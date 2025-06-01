@@ -10,8 +10,17 @@
 <main>
   <form>
     <div class="form-group">
-      <label for="movieTitle">Tytuł filmu</label>
-      <input type="email" name="movieTitle" id="movieTitle">
+      <label for="movieTitle" class="">Tytuł filmu</label><br/>
+      <input type="email" name="movieTitle" id="movieTitle"><br/>
+      <label for="movieTitle">Rodzaj</label><br/>
+      <select name="movieType" id="movieType" [value]="{{9}}">
+        <option default></option>
+        <option value="1">Komedia</option>
+        <option value="2">Obyczajowy</option>
+        <option value="3">Sensacyjny</option>
+        <option value="4">Horror</option>
+      </select><br/>
+      <button class="btn btn-primary">Dodaj</button>
     </div>
   </form>
 </main>
