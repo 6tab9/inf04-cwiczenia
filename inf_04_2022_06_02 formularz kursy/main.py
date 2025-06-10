@@ -1,10 +1,10 @@
-class Osoba():
+class Osoba:
     __id:int
     __imie:str
     liczbaInstancji = 0
 
     def __init__(self, id=0,imie=""):
-        self.liczbaInstancji+=1
+        Osoba.liczbaInstancji+=1
         self.__id=id
         self.__imie=imie
     def greet(self,personToGreet):

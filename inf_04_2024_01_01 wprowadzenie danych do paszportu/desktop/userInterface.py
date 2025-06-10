@@ -122,7 +122,7 @@ class Ui_MainWindow(object):
 
         self.linie = QLabel(self.horizontalLayoutWidget)
         self.linie.setObjectName(u"linie")
-        self.linie.setFixedHeight(180)
+        self.linie.setFixedSize(QPixmap("../img/000-odcisk.jpg").size())
 
         self.horizontalLayout.addWidget(self.linie)
 
