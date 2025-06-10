@@ -91,6 +91,7 @@ class Ui_MainWindow(object):
         self.verticalLayout.setContentsMargins(0, 0, 0, 0)
         self.niebieskieOczy = QRadioButton(self.verticalLayoutWidget_3)
         self.niebieskieOczy.setObjectName(u"niebieskieOczy")
+        self.niebieskieOczy.setChecked(True)
 
         self.verticalLayout.addWidget(self.niebieskieOczy)
 
@@ -121,6 +122,7 @@ class Ui_MainWindow(object):
 
         self.linie = QLabel(self.horizontalLayoutWidget)
         self.linie.setObjectName(u"linie")
+        self.linie.setFixedHeight(180)
 
         self.horizontalLayout.addWidget(self.linie)
 
