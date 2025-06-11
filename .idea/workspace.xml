@@ -4,12 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5664bb4-0728-4b39-aaa8-df32b08bea0f" name="Changes" comment="inf_04_2024_01_01 wprowadzenie danych do paszportu skończone desktop">
-      <change afterPath="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inf04_cwiczenia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inf04_cwiczenia.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c5664bb4-0728-4b39-aaa8-df32b08bea0f" name="Changes" comment="desktop dodaj pracownika">
+      <change afterPath="$PROJECT_DIR$/inf04 2025/konsola/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/dane.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +69,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "F:/szkola/projekty python/inf04_cwiczenia",
+    "last_opened_file_path": "F:/szkola/projekty python/inf04_cwiczenia/inf04 2025/webowa/vite-project/src/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +80,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\szkola\projekty python\inf04_cwiczenia\inf04 2025\webowa\vite-project\src\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\szkola\projekty python\inf04_cwiczenia\inf_04_2023_01_01 dodaj pracownika\desktopowe" />
       <recent name="F:\szkoła\projekty python\inf04_cwiczenia\inf_04_2024_01_01 wprowadzenie danych do paszportu\img" />
@@ -126,7 +139,7 @@
       <workItem from="1749402458692" duration="2082000" />
       <workItem from="1749480692821" duration="282000" />
       <workItem from="1749533414099" duration="12818000" />
-      <workItem from="1749649779281" duration="6132000" />
+      <workItem from="1749649779281" duration="15455000" />
     </task>
     <task id="LOCAL-00001" summary="Add Angular project setup with initial configurations&#10;&#10;Initialized a new Angular project with essential configurations, including `.editorconfig`, `.gitignore`, `angular.json`, and `package.json`. Added placeholder app components, routes, and test structure alongside supporting configuration files for development and testing environments.">
       <option name="closed" value="true" />
@@ -152,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749539336669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="desktop dodaj pracownika">
+      <option name="closed" value="true" />
+      <created>1749658453203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749658453203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,12 +183,13 @@
     <MESSAGE value="Add Angular project setup with initial configurations&#10;&#10;Initialized a new Angular project with essential configurations, including `.editorconfig`, `.gitignore`, `angular.json`, and `package.json`. Added placeholder app components, routes, and test structure alongside supporting configuration files for development and testing environments." />
     <MESSAGE value="Jednak react" />
     <MESSAGE value="inf_04_2024_01_01 wprowadzenie danych do paszportu skończone desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="inf_04_2024_01_01 wprowadzenie danych do paszportu skończone desktop" />
+    <MESSAGE value="desktop dodaj pracownika" />
+    <option name="LAST_COMMIT_MESSAGE" value="desktop dodaj pracownika" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/inf04_cwiczenia$ui.coverage" NAME="ui Coverage Results" MODIFIED="1749655079681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe" />
     <SUITE FILE_PATH="coverage/inf04_cwiczenia$userInterface.coverage" NAME="userInterface Coverage Results" MODIFIED="1749542237197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2024_01_01 wprowadzenie danych do paszportu/desktop" />
-    <SUITE FILE_PATH="coverage/inf04_cwiczenia$app.coverage" NAME="app Coverage Results" MODIFIED="1749657273636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe" />
-    <SUITE FILE_PATH="coverage/inf04_cwiczenia$main.coverage" NAME="main Coverage Results" MODIFIED="1749651097121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika" />
+    <SUITE FILE_PATH="coverage/inf04_cwiczenia$app.coverage" NAME="app Coverage Results" MODIFIED="1749662292704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe" />
+    <SUITE FILE_PATH="coverage/inf04_cwiczenia$main.coverage" NAME="main Coverage Results" MODIFIED="1749664730696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf04 2025/konsola" />
   </component>
 </project>
