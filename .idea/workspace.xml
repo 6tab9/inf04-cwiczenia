@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5664bb4-0728-4b39-aaa8-df32b08bea0f" name="Changes" comment="desktop dodaj pracownika">
-      <change afterPath="$PROJECT_DIR$/inf04 2025/konsola/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/dane.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf04 2025/webowa/vite-project/src/assets/obraz9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5664bb4-0728-4b39-aaa8-df32b08bea0f" name="Changes" comment="2025 egzamin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +123,7 @@
       <workItem from="1749402458692" duration="2082000" />
       <workItem from="1749480692821" duration="282000" />
       <workItem from="1749533414099" duration="12818000" />
-      <workItem from="1749649779281" duration="15455000" />
+      <workItem from="1749649779281" duration="16259000" />
     </task>
     <task id="LOCAL-00001" summary="Add Angular project setup with initial configurations&#10;&#10;Initialized a new Angular project with essential configurations, including `.editorconfig`, `.gitignore`, `angular.json`, and `package.json`. Added placeholder app components, routes, and test structure alongside supporting configuration files for development and testing environments.">
       <option name="closed" value="true" />
@@ -173,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749658453203</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2025 egzamin">
+      <option name="closed" value="true" />
+      <created>1749670198056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749670198056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +176,8 @@
     <MESSAGE value="Jednak react" />
     <MESSAGE value="inf_04_2024_01_01 wprowadzenie danych do paszportu skończone desktop" />
     <MESSAGE value="desktop dodaj pracownika" />
-    <option name="LAST_COMMIT_MESSAGE" value="desktop dodaj pracownika" />
+    <MESSAGE value="2025 egzamin" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025 egzamin" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/inf04_cwiczenia$ui.coverage" NAME="ui Coverage Results" MODIFIED="1749655079681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe" />
