@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5664bb4-0728-4b39-aaa8-df32b08bea0f" name="Changes" comment="inf_04_2024_01_01 wprowadzenie danych do paszportu skończone desktop">
-      <change afterPath="$PROJECT_DIR$/inf_04_2023_06_01 nadaj przesylke/desktopowa/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_04_2023_06_01 nadaj przesylke/desktopowa/ui_paczka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inf04_cwiczenia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inf04_cwiczenia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf_04_2022_06_02 formularz kursy/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/inf_04_2022_06_02 formularz kursy/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf_04_2023_06_01 nadaj przesylke/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/inf_04_2023_06_01 nadaj przesylke/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf_04_2023_06_03 formularz firmy/webowe/formularzFirmy/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/inf_04_2023_06_03 formularz firmy/webowe/formularzFirmy/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf_04_2024_01_01 wprowadzenie danych do paszportu/desktop/userInterface.py" beforeDir="false" afterPath="$PROJECT_DIR$/inf_04_2024_01_01 wprowadzenie danych do paszportu/desktop/userInterface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,14 @@
     "Node.js.App.jsx.executor": "Run",
     "Python.app.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.ui.executor": "Run",
     "Python.userInterface.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/inf04_praktyczne_cz1/inf04-cwiczenia",
+    "last_opened_file_path": "F:/szkola/projekty python/inf04_cwiczenia",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +71,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\szkola\projekty python\inf04_cwiczenia\inf_04_2023_01_01 dodaj pracownika\desktopowe" />
       <recent name="F:\szkoła\projekty python\inf04_cwiczenia\inf_04_2024_01_01 wprowadzenie danych do paszportu\img" />
       <recent name="F:\szkoła\projekty python\inf04_cwiczenia\inf_04_2024_01_01 wprowadzenie danych do paszportu" />
     </key>
@@ -86,7 +86,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 virtualenv at D:\PythonProjects\PySide6\.venv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inf_04_2023_06_01 nadaj przesylke" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -105,8 +104,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
-        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -127,6 +126,7 @@
       <workItem from="1749402458692" duration="2082000" />
       <workItem from="1749480692821" duration="282000" />
       <workItem from="1749533414099" duration="12818000" />
+      <workItem from="1749649779281" duration="6132000" />
     </task>
     <task id="LOCAL-00001" summary="Add Angular project setup with initial configurations&#10;&#10;Initialized a new Angular project with essential configurations, including `.editorconfig`, `.gitignore`, `angular.json`, and `package.json`. Added placeholder app components, routes, and test structure alongside supporting configuration files for development and testing environments.">
       <option name="closed" value="true" />
@@ -165,8 +165,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="inf_04_2024_01_01 wprowadzenie danych do paszportu skończone desktop" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/inf04_cwiczenia$ui.coverage" NAME="ui Coverage Results" MODIFIED="1749655079681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe" />
     <SUITE FILE_PATH="coverage/inf04_cwiczenia$userInterface.coverage" NAME="userInterface Coverage Results" MODIFIED="1749542237197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2024_01_01 wprowadzenie danych do paszportu/desktop" />
-    <SUITE FILE_PATH="coverage/inf04_cwiczenia$app.coverage" NAME="app Coverage Results" MODIFIED="1749551275991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_06_01 nadaj przesylke/desktopowa" />
-    <SUITE FILE_PATH="coverage/inf04_cwiczenia$main.coverage" NAME="main Coverage Results" MODIFIED="1749545953725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2022_06_02 formularz kursy" />
+    <SUITE FILE_PATH="coverage/inf04_cwiczenia$app.coverage" NAME="app Coverage Results" MODIFIED="1749657273636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika/desktopowe" />
+    <SUITE FILE_PATH="coverage/inf04_cwiczenia$main.coverage" NAME="main Coverage Results" MODIFIED="1749651097121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inf_04_2023_01_01 dodaj pracownika" />
   </component>
 </project>

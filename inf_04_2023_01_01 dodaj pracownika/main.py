@@ -8,4 +8,5 @@ def nwd(firstNumber:int,secondNumber:int):
             b = b-a
     return a
 
-print(nwd(int(input("Podaj pierwszą liczbę: ")),int(input("Podaj drugą liczbę: "))))
+# print(nwd(int(input("Podaj pierwszą liczbę: ")),int(input("Podaj drugą liczbę: "))))
+print(int("A",16))
